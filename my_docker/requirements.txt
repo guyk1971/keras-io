@@ -1,0 +1,9 @@
+matplotlib
+plotly-express
+notebook
+jupyter_contrib_nbextensions
+pandas
+scikit-learn
+tensorflow_addons
+tqdm
+
